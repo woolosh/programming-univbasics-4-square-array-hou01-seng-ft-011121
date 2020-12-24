@@ -13,7 +13,7 @@ def square_array(array)
    
   array = [1,2,3]
     square_numbers = array ** 2
-    puts 
+    puts square_numbers
   end
    
 end
