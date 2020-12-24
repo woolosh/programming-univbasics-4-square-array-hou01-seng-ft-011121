@@ -8,12 +8,10 @@ def square_array(array)
   while numbers[counter]
      puts numbers[counter]
      counter += 1 
-     
   end     
    
    
-  square_numbers = (array.sqrt)
-  
+    square_numbers = (numbers.sqrt)
   end
    
 end
