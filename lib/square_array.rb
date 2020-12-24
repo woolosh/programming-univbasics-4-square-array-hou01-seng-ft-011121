@@ -11,7 +11,6 @@ def square_array(array)
   end     
    
     square_numbers = numbers**2
-    puts square_numbers
   end
    
 end
