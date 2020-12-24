@@ -12,6 +12,7 @@ def square_array(array)
   end     
    
    
+  numbers = [1,2,3]
   square_array([1,2,3]))
   
   end
