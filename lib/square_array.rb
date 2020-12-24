@@ -5,6 +5,8 @@ def square_array(array)
 
   numbers = [1,2,3]
   
+  square(array)
+  
   while numbers[counter]
      puts numbers[counter]
      counter += 1 
@@ -13,6 +15,3 @@ def square_array(array)
 end
 
 
-array = [1,2,3]
-
-square(array)
