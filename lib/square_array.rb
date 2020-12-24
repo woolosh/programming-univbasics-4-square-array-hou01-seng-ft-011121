@@ -6,7 +6,7 @@ def square_array(array)
   new_array = []
   
   while array[counter]
-     puts array[counter]
+     new_array.push(array[counter])
      counter += 1 
   end     
 
