@@ -5,10 +5,10 @@ def square_array(array)
 
   numbers = [1,2,3]
   
-  square(array)
+
   
   while numbers[counter]
-     puts numbers[counter]
+     puts array ** 2
      counter += 1 
   end     
    
