@@ -11,7 +11,7 @@ def square_array(array)
   end     
    
   array = [1,2,3]
-  square_numbers = array ** 2
+  square_numbers = [array] ** 2
   end
    
 end
