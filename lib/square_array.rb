@@ -9,16 +9,6 @@ def square_array(array)
      puts numbers[counter]
      counter += 1 
   end     
-   
-   
-  counter = 0 
-
-  array = [1,2,3]
-  
-  while array[counter]
-     puts array[counter] ** 2 
-     counter += 1 
-  end     
 
 end
 
