@@ -10,6 +10,7 @@ def square_array(array)
      counter += 1 
   end     
    
+    numbers = [1,2,3]
     square_numbers = numbers(**2)
   end
    
