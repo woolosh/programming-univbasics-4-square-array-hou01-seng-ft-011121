@@ -8,7 +8,7 @@ def square_array(array)
 
   
   while numbers[counter]
-     puts array ** 2
+     puts array ^ 2
      counter += 1 
   end     
    
