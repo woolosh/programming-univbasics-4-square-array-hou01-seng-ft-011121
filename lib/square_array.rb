@@ -12,7 +12,7 @@ def square_array(array)
   end     
    
    
-  square(array)
+  square(numbers)
   
   end
    
